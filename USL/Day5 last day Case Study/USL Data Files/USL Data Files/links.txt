@@ -1,0 +1,12 @@
+http://tech.nitoyon.com/en/blog/2013/11/07/k-means/
+
+
+https://setosa.io/ev/principal-component-analysis/
+
+
+DBSCAN
+https://www.naftaliharris.com/blog/visualizing-dbscan-clustering/
+
+
+LDA 
+https://www.researchgate.net/figure/A-visualized-comparison-between-the-two-lower-dimensional-sub-spaces-which-are-calculated_fig1_316994943 
